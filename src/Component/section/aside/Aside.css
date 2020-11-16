@@ -1,5 +1,10 @@
 #img_fn_list_panel {
-    margin: 10px;
+    border: 1px solid red;
+    width: 98%;
+    height: 98%;
+    margin-top: 11px;
+    padding: 3px;
+    margin-left: 10px;
 }
 
 #project_info_panel {
@@ -9,8 +14,17 @@
 #project_tools_panel{
 
 }
-
-#project_info_panel .col {
+#img_fn_list {
+    /* display: none; */
+    font-size: small;
+    /* overflow: scroll;  */
+    min-height: 10rem;
+    height: 92%;
+    margin-top: 5px;
+    color:white;
+    background-color: skyblue;
+  }
+#project_info_panel .cols {
     display: table-cell;
     padding: 0.4rem 0.1rem;
     border: none;
@@ -20,7 +34,7 @@
     width:40%;
 }
 
-#project_info_panel .col input[type="text"] {
+#project_info_panel .cols input[type="text"] {
     font-size: 0.8rem;
     border: none;
     border-bottom: 1px solid #cccccc;
