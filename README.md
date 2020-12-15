@@ -1,6 +1,6 @@
 # Face Mozaic
 
-![FaceMozaic/Untitled.png](FaceMozaic/Untitled.png)
+![FaceMosaic/Untitled.png](FaceMosaic/Untitled.png)
 
 ## [Dataset]
 
@@ -12,22 +12,22 @@
 
 다음 그림과 총 4개의 기능을 가지고 있다. 
 
-![FaceMozaic/Untitled%201.png](FaceMozaic/Untitled%201.png)
+![FaceMosaic/Untitled%201.png](FaceMosaic/Untitled%201.png)
 
 ---
 
-![FaceMozaic/Untitled%202.png](FaceMozaic/Untitled%202.png)
+![FaceMosaic/Untitled%202.png](FaceMosaic/Untitled%202.png)
 
-![FaceMozaic/Untitled%203.png](FaceMozaic/Untitled%203.png)
+![FaceMosaic/Untitled%203.png](FaceMosaic/Untitled%203.png)
 
-![FaceMozaic/Untitled%204.png](FaceMozaic/Untitled%204.png)
+![FaceMosaic/Untitled%204.png](FaceMosaic/Untitled%204.png)
 
-![FaceMozaic/Untitled%205.png](FaceMozaic/Untitled%205.png)
+![FaceMosaic/Untitled%205.png](FaceMosaic/Untitled%205.png)
 
 ## [개발 스택]
 
-![FaceMozaic/Untitled%206.png](FaceMozaic/Untitled%206.png)
+![FaceMosaic/Untitled%206.png](FaceMosaic/Untitled%206.png)
 
 ### ⇒ 파일 첨부
 
-[FaceMozaic/_.pdf](FaceMozaic/_.pdf)
+[FaceMosaic/_.pdf](FaceMosaic/_.pdf)
