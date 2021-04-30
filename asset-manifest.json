@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/face_mosaic_dotcom/static/css/main.7327a5d9.chunk.css",
-    "main.js": "/face_mosaic_dotcom/static/js/main.7ba6a71b.chunk.js",
-    "main.js.map": "/face_mosaic_dotcom/static/js/main.7ba6a71b.chunk.js.map",
+    "main.js": "/face_mosaic_dotcom/static/js/main.23445847.chunk.js",
+    "main.js.map": "/face_mosaic_dotcom/static/js/main.23445847.chunk.js.map",
     "runtime-main.js": "/face_mosaic_dotcom/static/js/runtime-main.86e2856e.js",
     "runtime-main.js.map": "/face_mosaic_dotcom/static/js/runtime-main.86e2856e.js.map",
     "static/css/2.1a02f21c.chunk.css": "/face_mosaic_dotcom/static/css/2.1a02f21c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.1e8c772f.chunk.js",
     "static/css/main.7327a5d9.chunk.css",
-    "static/js/main.7ba6a71b.chunk.js"
+    "static/js/main.23445847.chunk.js"
   ]
 }
